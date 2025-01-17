@@ -1,0 +1,8 @@
+node_modules
+config/node_modules
+.env
+.idea
+package-lock.json
+.vscode
+*.sqlite3
+*.xml
